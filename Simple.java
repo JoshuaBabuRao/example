@@ -4,5 +4,9 @@ class Simple
 	String b;
 	int c;
 	
+	public static void main(String[] args)
+	{
+		
+	}
 	
 }
